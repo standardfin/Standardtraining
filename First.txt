@@ -1,9 +1,0 @@
-This is my first document
-This is my edit for first document
-I am editing once again to test following commands
-
-git status
- 
-git add
-
-git commit
